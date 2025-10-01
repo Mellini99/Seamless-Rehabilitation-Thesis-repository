@@ -5,7 +5,7 @@ Contains Arduino Code and assembly files for the prototype used in the thesis
 To read out the use data from the prototype:
 
 1) Connect the usb cable that sticks out of the back of the prototype into a free usb port on your computer
-2) Download the Read-out file from this repository 
+2) Download the "read_out.ino" file from this repository 
 4) Open Read-out file in Arduino IDE
 5) Change Tool settings in menu
      - Board: Choose "Arduino Nano"
