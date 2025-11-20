@@ -1,6 +1,9 @@
+#Prototype components and assembly instructions
 This file contains the instructions on how to reproduce the assemply of the soap dispenser prototype. 
 
-Tools:
+##Tools & Materials 
+
+###Tools:
 - Soldering tools 
 - Lasercutter
 - Paint brushes
@@ -8,7 +11,7 @@ Tools:
 - Saw
 - Glue gun
 
-Box Materials:
+###Box Materials:
 - Water-proof Wood Glue
 - White water-repellent wood paint
 - 2 elastic bands for mimicking resistance
@@ -23,7 +26,7 @@ Box Materials:
 <img width="677" height="617" alt="image" src="https://github.com/user-attachments/assets/98dbaf36-8023-4f1c-b966-cb9795d208b9" />
 
 
-Electric components:
+###Electric components:
 - We used the soap pump housing, motor, motor battery, and soap pump system from a pre-existing electric soap dispenser
 - 1 Arduino nano + usb cable
 - 1 Arduino 12c clock module + battery
@@ -35,7 +38,9 @@ Electric components:
 - 10 000 mah powerbank
 - Soldering board
 
-First: Assembling the Outside Box:
+##Prototype Assembly
+
+###First: Assembling the Outside Box:
 - Lasercut the wood components out of 4mm plywood using the attached Box SVG file
 - Sand the edges of the wood components
 - Assemble the outside box and attach the wrist platform using water-proof wood glue
@@ -43,7 +48,7 @@ First: Assembling the Outside Box:
 - Add 2 little hooks to the left and right on the front side of the box inside around the height of the lowest point of the half-circle cut-out
 - Attach the elastic bands to the hooks
 
-Second: Assemble the prototype electric components and pump system:
+###Second: Assemble the prototype electric components and pump system:
 - Open the pre-existing electric soap dispenser casing and take out all parts exept the battery, motor and pump system
 - Solder all electric components together as described in the electric components schematic picture in this folder
 - Close the casing of the pre-existing soap dispenser to protect the parts
@@ -57,7 +62,7 @@ Second: Assemble the prototype electric components and pump system:
 - Use hot glue to secure the tube position on top of the dispenser case and to seal the tube on the container lid
 - Attach the soap container to the outside of the box facing upwards and slighlty higher than the height of the pumping system 
 
-Third: Assemble the inside box and handle
+###Third: Assemble the inside box and handle
 - Glue a thin rectangular wood piece on each of the inside walls just above the cut out facing the inside of the box
 - Paint all inside box parts with white water-repellent paint
 - Put in the inside walls of the prototype
@@ -69,7 +74,7 @@ Third: Assemble the inside box and handle
 - Assemble the handle inside the box, so that the 2.5 cm stick is in the middle and the 1cm sticks are stuck into the hole on each side and through the half-circle cut out
 - Glue together with wood glue
 
-Then the prototype is done!
+##Then the prototype is done!
 
 
 
